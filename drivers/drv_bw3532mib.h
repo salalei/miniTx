@@ -1,0 +1,27 @@
+#ifndef __DRV_BW3532MIB_H__
+#define __DRV_BW3532MIB_H__
+
+#include "rtdef.h"
+
+/**
+ * @brief Configuration
+ */
+#define BW3532MIB_WIDTH LV_HOR_RES
+#define BW3532MIB_HEIGHT LV_VER_RES
+
+/**
+ * @brief Interface
+ */
+#define IF_BW3532MIB_RST_PORT GPIO_PORT_E
+#define IF_BW3232MIB_RST_PIN GPIO_PIN_9
+
+#define IF_BW3532MIB_CS_PORT GPIO_PORT_E
+#define IF_BW3232MIB_CS_PIN GPIO_PIN_5
+
+#define IF_BW3532MIB_SCK_PORT GPIO_PORT_D
+#define IF_BW3232MIB_SCK_PIN GPIO_PIN_1
+
+#define IF_BW3532MIB_MOSI_PORT GPIO_PORT_D
+#define IF_BW3232MIB_MOSI_PIN GPIO_PIN_3
+
+#endif

@@ -1,0 +1,27 @@
+[
+ {
+  "path": "/packages/multimedia/wavplayer", 
+  "ver": "latest", 
+  "name": "WAVPLAYER"
+ }, 
+ {
+  "path": "/packages/multimedia/helix", 
+  "ver": "v1.0.0", 
+  "name": "HELIX"
+ }, 
+ {
+  "path": "/packages/system/LittlevGL2RTT", 
+  "ver": "latest", 
+  "name": "LITTLEVGL2RTT"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/ft6206", 
+  "ver": "latest", 
+  "name": "FT6206"
+ }, 
+ {
+  "path": "/packages/misc/optparse", 
+  "ver": "latest", 
+  "name": "OPTPARSE"
+ }
+]

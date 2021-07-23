@@ -1,0 +1,21 @@
+{
+	"files.associations": {
+		"drv_clock.h": "c",
+		"drv_display.h": "c",
+		"rtdevice.h": "c",
+		"touch.h": "c",
+		"dfs_posix.h": "c",
+		"dfs.h": "c",
+		"dfs_fs.h": "c",
+		"rtthread.h": "c",
+		"lv_hal_tick.h": "c",
+		"lv_demo_music_main.h": "c",
+		"lv_demo_music.h": "c",
+		"spectrum_1.h": "c",
+		"spectrum_3.h": "c"
+	},
+	"cSpell.words": [
+		"inac",
+		"tacq"
+	]
+}
